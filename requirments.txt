@@ -1,5 +1,4 @@
 argparse
-os
 re
 requests
 termcolor
